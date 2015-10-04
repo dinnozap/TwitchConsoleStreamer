@@ -13,3 +13,5 @@ You are at the right place !
   - goto the TwitchConsoleStreamer Folder `cd /home/your_folder/TwitchConsoleStreamer`
   - Give permissions to the scripts `chmod 777 TwitchStream.sh` and `chmod 777 twitch_ffmpeg.sh`
   - Start the program ! :sparkles: `./TwitchStream.sh`
+
+forked from wargio/Twitch-Streamer-Linux
